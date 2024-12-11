@@ -10,10 +10,6 @@ CAN-intrusion dataset, a benchmark network security dataset for intra-vehicle in
 * Publicly available at: https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset  
 * Can be processed using the same code
 
-### Code  
-* [Tree-based_IDS_GlobeCom19.ipynb](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/blob/main/Tree-based_IDS_GlobeCom19.ipynb): code for the paper "Tree-Based Intelligent Intrusion Detection System in Internet of Vehicles"  
-* [MTH_IDS_IoTJ.ipynb](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/blob/main/MTH_IDS_IoTJ.ipynb): code for the paper "MTH-IDS: A Multi-Tiered Hybrid Intrusion Detection System for Internet of Vehicles"  
-* [LCCDE_IDS_GlobeCom22.ipynb](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/blob/main/LCCDE_IDS_GlobeCom22.ipynb): code for the paper "LCCDE: A Decision-Based Ensemble Framework for Intrusion Detection in The Internet of Vehicles"  
 
 ### Machine Learning Algorithms  
 * Decision tree (DT)
