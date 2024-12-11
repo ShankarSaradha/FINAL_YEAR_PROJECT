@@ -4,9 +4,9 @@
 ### Dataset 
 CICIDS2017 dataset, a popular network traffic dataset for intrusion detection problems
 * Publicly available at: https://www.unb.ca/cic/datasets/ids-2017.html  
-* For the purpose of displaying the experimental results in Jupyter Notebook, the sampled subsets of CICIDS2017 is used in the sample code. The subsets are in the "data" folder.
 
-CAN-intrusion dataset, a benchmark network security dataset for intra-vehicle intrusion detection
+
+CAN-intrusion dataset, a benchmark network security dataset 
 * Publicly available at: https://ocslab.hksecurity.net/Datasets/CAN-intrusion-dataset  
 * Can be processed using the same code
 
